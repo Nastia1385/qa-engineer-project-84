@@ -1,0 +1,9 @@
+# Данные по заказу 1
+user:
+    name: Ivan Ivanov
+    phone: "+12345678910"
+    city: Moscow
+products:
+- milk
+- eggs
+- sugar
