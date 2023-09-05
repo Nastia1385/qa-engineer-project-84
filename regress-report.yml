@@ -326,7 +326,8 @@ test-cases:
     status: fail
 bugreports:
 - summary: |
-      Фильтр работает не корректноenvironment: |
+      Фильтр работает не корректно
+environment: |
       Yandex   23.7.3.825 (Официальная сборка) (64 бит)
       ОС Windows 11 версия 22H2
 steps-to-reproduce: |
