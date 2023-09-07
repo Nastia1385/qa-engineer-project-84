@@ -1,8 +1,11 @@
 ---
-name: Ilona Ivanova
-telephone: 89827531525
-email: ilona@hexlet.io
-description: общительная, трудолюбивая.
+name: Anastasiya Tokareva
+job: QA Engineer
+level: junior
+email: 13041985tas@gmail.com
+description: |
+  - трудолюбивая
+  - внимательная
 skills:
   - функциональное тестирование
   - написание багрепортов
