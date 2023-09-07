@@ -1,11 +1,4 @@
 ---
-correct:
-  name:
-    - |
-      Ivan Ivanov
-  email:
-    - |
-      ivanov@gmail.com
-  password:
-    - |
-      edX*12
+- summary: |
+    Добавление несеольких одинаковых товаров в пустую корзину
+  status: pass
