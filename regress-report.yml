@@ -177,7 +177,7 @@
   status: fail
   
 test-cases:
-  - summary: |
+- summary: |
       Поиск поиска товара по ключевому слову с цифровым значением
   - status: pass
   - summary: |
