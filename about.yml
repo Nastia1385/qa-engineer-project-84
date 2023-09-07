@@ -1,8 +1,11 @@
 ---
-user:
-  - имя - Игорь
-  - телефон 898234561224
-  - адрес Тюмень
-products:
-  - milk
-  - eggs
+correct:
+  name:
+    - |
+      Ivan Ivanov
+  email:
+    - |
+      ivanov@gmail.com
+  password:
+    - |
+      edX*12
